@@ -7,7 +7,7 @@ pkg install python
 
 pip install --upgrade pip
 
-git clone [ paste the link here]
+git clone {paste the git hub link here}
 
 cd TBomb
 
