@@ -10,6 +10,8 @@ pip install --upgrade pip
 git clone {paste the git hub link here}
 
 cd TBomb
+      
+      ls
 
  chmod +x TBomb.sh
 
